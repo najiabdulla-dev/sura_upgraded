@@ -1,77 +1,56 @@
-# Sura-GPT AI Chatbox
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
+
+# Sura-GPT 🎯
+
+
+## Basic Details
+### Team Name: Codex
+
+
+### Team Members
+- Team Lead: Agney C - St.Joseph's College(Autonomous) Devagiri
+- Member 2: Naji Abdulla - St.Joseph's College(Autonomous) Devagiri
+
+
+### Project Description
 A beautiful and interactive AI chatbox named "Sura-GPT" with predefined Malayalam responses.
 
-## Features
+### The Problem (that doesn't exist)
+The world has too many smart bots… but none with Suresh Gopi's vibe.
 
-- 🎨 **Modern UI Design**: Beautiful gradient design with smooth animations
-- 🤖 **AI Responses**: Predefined responses in Malayalam language
-- 📱 **Responsive Design**: Works perfectly on desktop and mobile devices
-- ⌨️ **Keyboard Shortcuts**: 
-  - `Enter` to send message
-  - `Ctrl/Cmd + K` to focus input
-  - `Escape` to clear input
-- 🎯 **Interactive Elements**: Typing indicators, hover effects, and smooth transitions
-- 🧹 **Chat Management**: Clear chat functionality with confirmation
-- 🥚 **Easter Egg**: Click the AI avatar 5 times for a surprise!
-
-## AI Responses
-
-Sura-GPT responds with these Malayalam phrases in rotation:
-
-1. "നിങ്ങൾ ആരാ?" (Who are you?)
-2. "നിങ്ങൾ ആരോടാ ഈ ചോദിക്കുന്നെ?" (Who are you asking this to?)
-3. "മിണ്ടല്ലേടാ കടയാടി!!" (Don't talk, you rascal!!)
-
-## How to Use
-
-1. **Open the Application**: Simply open `index.html` in your web browser
-2. **Start Chatting**: Type your message in the input field and press Enter or click the send button
-3. **Clear Chat**: Click the trash icon in the header to clear the conversation
-4. **Enjoy**: Watch Sura-GPT respond with the predefined Malayalam messages!
-
-## File Structure
-
-```
-sura_upgraded/
-├── index.html          # Main HTML file
-├── styles.css          # CSS styling
-├── script.js           # JavaScript functionality
-├── sura.jpeg           # AI profile picture
-└── README.md           # This file
-```
+### The Solution (that nobody asked for)
+Introducing "Sura-GPT" – the AI chatbox nobody knew they needed, but everyone in Kerala now can’t live without.
 
 ## Technical Details
+### Technologies/Components Used
+For Software:
+Pure HTML, CSS, and JavaScript (no frameworks)
 
-- **Frontend**: Pure HTML, CSS, and JavaScript (no frameworks)
-- **Responsive**: Mobile-first design approach
-- **Accessibility**: Keyboard navigation support
-- **Security**: XSS protection with HTML escaping
-- **Performance**: Lightweight and fast loading
 
-## Browser Compatibility
 
-- Chrome (recommended)
-- Firefox
-- Safari
-- Edge
+### Project Documentation
+For Software:
 
-## Customization
+# Screenshots (Add at least 3)
+<img width="1710" height="894" alt="Screenshot 2025-08-02 061654" src="https://github.com/user-attachments/assets/66b8a2b8-65eb-4679-b7f4-44ea4d4c048e" />
+<img width="1636" height="888" alt="Screenshot 2025-08-02 061605" src="https://github.com/user-attachments/assets/ccaa1d89-5443-47c3-a886-e56bf5eab38a" />
+<img width="1704" height="891" alt="Screenshot 2025-08-02 061546" src="https://github.com/user-attachments/assets/d083ec9a-a0a4-47ae-bcfb-7f4efb85c27a" />
 
-You can easily customize the AI responses by editing the `suraResponses` array in `script.js`:
+### Project Demo
+# Video
+https://sura-upgraded.vercel.app/
 
-```javascript
-const suraResponses = [
-    "Your custom response 1",
-    "Your custom response 2",
-    "Your custom response 3"
-];
-```
 
-## License
 
-This project is open source and available under the MIT License.
+## Team Contributions
+- Agney C: Html & CSS
+- Naji Abdulla: Javascript
 
 ---
+Made with ❤️ at TinkerHub Useless Projects 
 
-**Enjoy chatting with Sura-GPT!** 🚀 
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
+
